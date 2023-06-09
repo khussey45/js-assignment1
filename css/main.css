@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+
+/* Added css */
+
+
+body {
+  background-color: burlywood;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+#btn1{
+  background-color: purple;
+}
+#btn2{
+  background-color: blue;
+}
+#btn3{
+  background-color: green;
+}
+#btn4{
+  background-color: orange;
+}
+#btn5{
+  background-color: magenta;
+}
+#btn6{
+  background-color: violet;
+}
+
+button:hover {
+  background-color: #ffbc52;
+}
+
+#speakButton {
+  background-color: #00a8e8;
+}
+
+#speakButton:hover {
+  background-color: #02c4ff;
+}
+
+#btnReset {
+  background-color: #ff006e;
+}
+
+#btnReset:hover {
+  background-color: #ff248f;
+}
+
+#storyOutput {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
